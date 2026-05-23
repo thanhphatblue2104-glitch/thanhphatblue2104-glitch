@@ -33,9 +33,4 @@ I make projects just for fun, training my skills...
   </a>
 </p>
 
-<!-- Thống kê GitHub nền trắng -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanhphatblue2104-glitch&show_icons=true&theme=default&locale=en&title_color=0e75b6&text_color=333333&bg_color=ffffff" alt="Huỳnh Thành Phát's GitHub Stats" />
-</p>
-
 Thanks for stopping by, and I look forward to connecting with you soon!
