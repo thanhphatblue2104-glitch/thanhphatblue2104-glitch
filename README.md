@@ -1,3 +1,10 @@
+Hi there 👋, my name is Huỳnh Thành Phát
+
+I'm a Developer from Ho Chi Minh City. I was born in 2006.
+
+Currently, I am a student at the University of Transport and Communications (UTH). I have a strong passion for programming and am always eager to learn new technologies, especially in software development.
+
+<!-- Ảnh bìa động -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=HUỲNH%20THÀNH%20PHÁT&fontSize=50&fontAlignY=35&desc=Software%20Developer%20%7C%20UTH%20Student&descAlignY=55&descSize=20&animation=fadeIn" alt="Banner" width="100%" />
 </p>
@@ -21,12 +28,12 @@ I make projects just for fun, training my skills...
   <a href="mailto:thanhphatblue2104@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="#">
+  <a href="https://www.facebook.com/share/1DbfdAZuk5/?mibextid=wwXIfr">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
 
-<!-- Thống kê GitHub nền trắng giống mẫu -->
+<!-- Thống kê GitHub nền trắng -->
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=thanhphatblue2104-glitch&show_icons=true&theme=default&locale=en&title_color=0e75b6&text_color=333333&bg_color=ffffff" alt="Huỳnh Thành Phát's GitHub Stats" />
 </p>
