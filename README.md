@@ -1,10 +1,3 @@
-Hi there 👋, my name is Huỳnh Thành Phát
-
-I'm a Developer from Ho Chi Minh City. I was born in 2006.
-
-Currently, I am a student at the University of Transport and Communications (UTH). I have a strong passion for programming and am always eager to learn new technologies, especially in software development.
-
-<!-- Ảnh bìa động (Bạn có thể thay link ảnh thiết kế của bạn vào chỗ src="..." bên dưới) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=HUỲNH%20THÀNH%20PHÁT&fontSize=50&fontAlignY=35&desc=Software%20Developer%20%7C%20UTH%20Student&descAlignY=55&descSize=20&animation=fadeIn" alt="Banner" width="100%" />
 </p>
