@@ -1,38 +1,41 @@
-<!-- Hiệu ứng gõ chữ tự động -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=26&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Hi+there,+Mình+là+Huỳnh+Thành+Phát+!+👋;Sinh+viên+@+ĐH+Giao+thông+Vận+tải+TP.HCM+(UTH);Born+in+2006+|+Passionate+Developer+🚀" alt="Typing SVG" />
-</h1>
-<!-- Ảnh GIF động Hacker -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/7wq/7wq/main/coding.gif" width="250" alt="coding animation" />
-</div>
-<!-- Bộ đếm lượt xem Profile -->
+Hi there 👋, my name is Huỳnh Thành Phát
+
+I'm a Developer from Ho Chi Minh City. I was born in 2006.
+
+Currently, I am a student at the University of Transport and Communications (UTH). I have a strong passion for programming and am always eager to learn new technologies, especially in software development.
+
+<!-- Ảnh bìa động (Bạn có thể thay link ảnh thiết kế của bạn vào chỗ src="..." bên dưới) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thanhphatblue2104-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=HUỲNH%20THÀNH%20PHÁT&fontSize=50&fontAlignY=35&desc=Software%20Developer%20%7C%20UTH%20Student&descAlignY=55&descSize=20&animation=fadeIn" alt="Banner" width="100%" />
 </p>
----
-### 👨‍💻 Về bản thân mình:
-- 🎓 Mình sinh năm **2006**, hiện đang là sinh viên tại **Trường Đại học Giao thông Vận tải TP.HCM (UTH)**.
-- 🔭 Đang nghiên cứu và phát triển với **Java, TypeScript** và các công nghệ liên quan.
-- 🌱 Tập trung rèn luyện tư duy logic qua **Cấu trúc dữ liệu & Giải thuật**.
-- 📫 Kết nối với mình qua email: **thanhphatblue2104@gmail.com**
----
-### 🛠️ Kỹ năng & Công nghệ:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,typescript,javascript,html,css,git,github,vscode,mysql,spring&theme=dark" />
+
+I make projects just for fun, training my skills...
+
+**Skills:** 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+
+<!-- Liên kết mạng xã hội -->
+<p align="left">
+  <a href="https://github.com/thanhphatblue2104-glitch">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:thanhphatblue2104@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
----
-### 📈 Hoạt động trên GitHub:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanhphatblue2104-glitch&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
+
+<!-- Thống kê GitHub nền trắng giống mẫu -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=thanhphatblue2104-glitch&show_icons=true&theme=default&locale=en&title_color=0e75b6&text_color=333333&bg_color=ffffff" alt="Huỳnh Thành Phát's GitHub Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhphatblue2104-glitch&theme=tokyonight" alt="GitHub Streak" />
-</p>
----
-### 🐍 Đóng góp GitHub (Contribution Snake):
-<p align="center">
-  <img src="https://github.com/thanhphatblue2104-glitch/thanhphatblue2104-glitch/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake animation" />
-</p>
+
+Thanks for stopping by, and I look forward to connecting with you soon!
